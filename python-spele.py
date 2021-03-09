@@ -104,7 +104,6 @@ def main_funkcija():
             printet()
     if i == 9:
         print('Spēle beidzās neizšķirti!')
-    else: print('Error')
 
 if __name__ == '__main__':
     main_funkcija()
